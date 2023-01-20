@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.header{
+    height: 1450px;
+    width: 100%;
+    background-color: black;
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    background-position: center;
+    
+}
+
+.text_white{
+    color: white;
+}
+
+.nav{
+    height: 250px;
+    width: 100%;
+    padding-left: 680px;
+    padding-right: 680px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navleft{
+    font-size: 60px;
+}
+
+.navright{
+    width: 2500px;
+    height: 100px;
+    display: flex;
+    font-size: 80px;
+    justify-content: space-between;
+    
+}
+
+.search{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    height: 900px;
+    width: 100%;
+    font-size: 160px;
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+.outbar{
+    height: 230px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+}
+
+.bar{
+    height: 230px;
+    width: 50%;
+    background-color: white;
+    border-radius: 40px;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 1550px;
+    padding-top: 40px;
+    font-size: 100px;
+    justify-content: space-evenly;
+    padding-right: 700px;
+    padding-bottom: 50px;
+
+}
+.divide{
+    align-items:center;
+}
+
+.fi-sr-marker {
+    color: red;
+}
+
+
+
+.city{
+   
+    justify-content: space-between;
+    font-size: 100px;
+   margin-right: 1350px;
+   margin-left: 40px;
+   border: none;
+   
+}
+.divide{
+ font-size: 120px;
+ font-weight: 500;
+}
+
+.dish{
+    
+    height: 200px;
+    font-size: 100px;
+    padding-right: 500px;
+    
+}
+
